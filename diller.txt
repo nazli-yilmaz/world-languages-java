@@ -1,0 +1,30 @@
+Togo;French;Africa;8278737
+Mayotte;French;Africa;226915
+Georgia;Georgian;Asia;3714000
+Vanuatu;Bislama,English,French;Oceania;307150
+Kyrgyzstan;Kyrgyz,Russian;Asia;6591600
+Niger;French;Africa;24206636
+China;Chinese;Asia;1402112000
+Tuvalu;English,Tuvaluan;Oceania;11792
+Comoros;Arabic,French,Comorian;Africa;869595
+Bosnia and Herzegovina;Bosnian,Croatian,Serbian;Europe;3280815
+Bahrain;Arabic;Asia;1701583
+Somalia;Arabic,Somali;Africa;15893219
+Saint Barthélemy;French;Americas;4255
+Latvia;Latvian;Europe;1901548
+Cayman Islands;English;Americas;65720
+Netherlands;Dutch;Europe;16655799
+Lesotho;English,Sotho;Africa;2142252
+Venezuela;Spanish;Americas;28435943
+Kenya;English,Swahili;Africa;53771300
+Turkey;Turkish;Asia;84339067
+Fiji;English,Fijian,Fiji Hindi;Oceania;896444
+Trinidad and Tobago;English;Americas;1399491
+Honduras;Spanish;Americas;9904608
+Jersey;English,French,Jèrriais;Europe;100800
+Djibouti;Arabic,French;Africa;988002
+Réunion;French;Africa;840974
+Eswatini;English,Swazi;Africa;1160164
+Tajikistan;Russian,Tajik;Asia;9537642
+Saudi Arabia;Arabic;Asia;34813867
+Bermuda;English;Americas;63903
