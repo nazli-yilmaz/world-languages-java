@@ -1,7 +1,8 @@
-# world-languages-java
-This project is a Java console application that retrieves country data from the REST Countries API.
+# World Languages Information System
 
-The application can:
+This project is a Java console application that retrieves country data using the REST Countries API.
+
+The application allows users to:
 
 - Fetch country data from an API
 - Store the data in a text file
@@ -10,13 +11,9 @@ The application can:
 - Update country language information
 - Delete country records
 
-Technologies used:
+## Technologies
+
 - Java
-- REST API
+- REST Countries API
 - Gson
 - File I/O
-- 
-- ## Turkish Description
-
-Bu proje Java ile geliştirilmiş bir konsol uygulamasıdır.
-REST Countries API kullanarak ülkelerin dil, bölge ve nüfus bilgilerini çekmektedir.
